@@ -1,0 +1,10 @@
+discussione
+- validazione dei risultati
+- la classifica anonima può spingere a giocare senza temere la competizione di amici?
+- 
+
+sviluppi futuri
+- implementazione dei contenuti multimediali extra come video di introduzione
+- cura delle interfacce in modo più appropriato (per esempio classifica) per il target di riferimento
+- aggiunta di nuove sfide che possano trattare temi ulteriori sulla programmazione C
+
